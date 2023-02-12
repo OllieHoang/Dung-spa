@@ -8,7 +8,7 @@ function About() {
                     <div class="view_content_border-1">
                         <p class="txt_gt_dichvu">CHÀO MỪNG ĐẾN VỚI DUNG SPA</p>
                         <h2 class="txt_gt1">
-                            Chúng tôi là một phòng khám Spa và làm đẹp chuyên nghiệp ở trung tâm New York.
+                            Chúng tôi là một phòng khám Spa và làm đẹp chuyên nghiệp ở trung tâm Đà Nẵng.
                         </h2>
                         <p class="txt_gt2">
                             Bạn có thể tham gia vào một liệu pháp nuôi dưỡng hoặc ngâm cả ngày các phương pháp trị liệu
@@ -101,7 +101,7 @@ function About() {
                     </div>
                     <div class="wrap_txt_banner2">
                         <div>
-                            <p>CHÀO MỪNG ĐẾN VỚI LUXURY SPA</p>
+                            <p>CHÀO MỪNG ĐẾN VỚI DUNG SPA</p>
                             <h2 class="txt_banner2">Muốn làm việc với chúng tôi không?</h2>
                             <NavLink to="/Booking">
                                 <button class="btn_banner2">
